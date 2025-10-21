@@ -1,2 +1,6 @@
 # website-jual-beli-sederhana-tothe
-website jual beli sederhana yang menampilkan halaman utama, catalog, detail catalog dan kontak.
+Alethea Tsabita Calista Syawal
+24051204057
+
+Home: 
+home tothe.jpeg

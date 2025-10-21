@@ -32,13 +32,6 @@ Website sederhana untuk menampilkan katalog produk.
 </p>
 
 ---
-
-### 💻 Teknologi yang Digunakan
-- HTML5  
-- CSS3  
-- Bootstrap 5  
-
----
 Alethea Tsabita Calista Syawal
 24051204057
 
